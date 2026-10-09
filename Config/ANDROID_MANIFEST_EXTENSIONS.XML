@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <target xpath="/manifest">
+        <!-- Android 11 (API 30): чтение буфера обмена возможно только из foreground, специальных разрешений нет -->
+    </target>
+
+</root>
